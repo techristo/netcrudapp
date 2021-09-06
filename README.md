@@ -10,7 +10,7 @@ and then in the project open Models/workshopDB.edmx.sql right click inside the f
 
 3- Go to View -> Server Object Explorer and right click on your database ( workshopDatabase ) and click on properties
 
-4- Find the path of your database, for me it's ( C:\Users\Ilias\workshopDatabase.mdf ) 
+4- Find the path of your database, for me it's ( C:\Users\user\workshopDatabase.mdf ) 
 
 5- Go back to Server Explorer and right click WorkshopDBContainer -> Modify Connection then browse to the path of your database
 
